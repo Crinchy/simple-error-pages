@@ -5,6 +5,8 @@
 # Clean Error Pages
 This repository includes a clean error page template for all possible errors.
 
+![alt text](https://github.com/crinchy/simple-error-pages/tree/preview/404_not_found.png?raw=true)
+
 ## Includes
 - [400]() - Bad Request
 - [401]() - Unauthorized 
