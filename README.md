@@ -53,4 +53,4 @@ This repository includes a clean error page template for all possible errors.
 ```
 
 ## License
-The sass library is open-sourced package licensed under the MIT license.
+The simple error pages is open-sourced package licensed under the MIT license.
