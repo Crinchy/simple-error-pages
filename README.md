@@ -5,8 +5,6 @@
 # Clean Error Pages
 This repository includes a clean error page template for all possible errors.
 
-![alt text](https://github.com/crinchy/simple-error-pages/tree/main/preview/404_not_found.png)
-
 ## Includes
 - [400]() - Bad Request
 - [401]() - Unauthorized 
@@ -47,11 +45,11 @@ This repository includes a clean error page template for all possible errors.
 - [507]() - Insufficient Storage 
 - [508]() - Loop Detected 
 - [510]() - Not Extended 
-- [511]() - Network Authentication Required default]() - Something is wrong
+- [511]() - Network Authentication Required
 
 ## Setup
 ```
-Install the sass library into your application & adjust your webpack-mix path.
+- 
 ```
 
 ## License
