@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="125">
-</p>
+![404_not_found_preview](./preview/404_not_found.png)
 
 # Clean Error Pages
 This repository includes a clean error page template for all possible errors.
-
-![404_not_found_preview](./preview/404_not_found.png)
 
 ## Includes
 - [400]() - Bad Request
