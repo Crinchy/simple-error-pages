@@ -4,7 +4,6 @@
 This repository includes a clean error page template for all possible errors.
 
 ## Includes
-```
 - [400]() - Bad Request
 - [401]() - Unauthorized 
 - [402]() - Payment Required 
@@ -45,6 +44,6 @@ This repository includes a clean error page template for all possible errors.
 - [508]() - Loop Detected 
 - [510]() - Not Extended 
 - [511]() - Network Authentication Required
-```
+
 ## License
 The simple error pages is open-sourced package licensed under the MIT license.
