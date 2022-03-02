@@ -47,6 +47,9 @@ This repository includes a clean error page template for all possible errors.
 - [510]() - Not Extended 
 - [511]() - Network Authentication Required
 
+
+![404_not_found_preview](./preview/404_not_found.png)
+
 ## Setup
 ```
 - 
