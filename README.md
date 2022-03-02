@@ -4,7 +4,7 @@
 This repository includes a clean error page template for all possible errors.
 
 ## Includes
-- [400]() - Bad Request
+- [400]() Bad Request
 - [401]() - Unauthorized 
 - [402]() - Payment Required 
 - [403]() - Forbidden 
